@@ -1,10 +1,10 @@
 {
-  "name": "admin-lte",
+  "name": "pagertree-admin-lte",
   "version": "2.3.12",
   "main": "dist/js/app.min.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/almasaeed2010/AdminLTE.git"
+    "url": "git://github.com/PagerTree/AdminLTE.git"
   },
   "license": "MIT",
   "devDependencies": {

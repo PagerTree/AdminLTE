@@ -1,8 +1,9 @@
 {
-  "name": "admin-lte",
+  "name": "pagertree-admin-lte",
   "homepage": "http://almsaeedstudio.com",
   "authors": [
-    "Abdullah Almsaeed <abdullah@almsaeedstudio.com>"
+    "Abdullah Almsaeed <abdullah@almsaeedstudio.com>",
+    "PagerTree Team <dev@pagertree.com>"
   ],
   "description": "Admin dashboard and control panel template",
   "main": [

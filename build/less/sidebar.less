@@ -19,7 +19,8 @@
   width @transition-speed @transition-fn;
   .transition-transform(@transition-rule);
   @media (max-width: @screen-header-collapse) {
-    padding-top: 100px;
+    // We don't want this, this assume that the logo is up top
+    // padding-top: 100px;
   }
   @media (max-width: @screen-xs-max) {
     .translate(-@sidebar-width, 0);
