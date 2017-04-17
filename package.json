@@ -1,6 +1,6 @@
 {
   "name": "pagertree-admin-lte",
-  "version": "2.3.12",
+  "version": "3.0.0",
   "main": "dist/js/app.min.js",
   "repository": {
     "type": "git",
